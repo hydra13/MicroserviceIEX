@@ -24,9 +24,9 @@ Furthermore, please use at least one additional Google services. E.g. messaging 
 PubSub, persistence via Datastore
 
 ---
-## SCHEMA
+## SCHEME
 
-[![](https://lh4.googleusercontent.com/x1HOhZ85DcDgUW0nxP4bqWeVKUxfdtC54PLvx6SljelkON3CbWUOQY_FyTgmJwEO2Kcrz4xvbzn6ZAWRSPmh=w1920-h902)]
+[![scheme](https://raw.githubusercontent.com/hydra13/MicroserviceIEX/master/docs/schema.png)]
 
 ---
 ## LINKS
