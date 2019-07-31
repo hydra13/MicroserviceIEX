@@ -26,7 +26,7 @@ PubSub, persistence via Datastore
 ---
 ## SCHEME
 
-[![scheme](https://raw.githubusercontent.com/hydra13/MicroserviceIEX/master/docs/schema.png)]
+![scheme](https://raw.githubusercontent.com/hydra13/MicroserviceIEX/master/docs/schema.png)
 
 ---
 ## LINKS
