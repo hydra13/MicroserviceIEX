@@ -208,4 +208,4 @@ aapl was deleted
 ## CHANGE INPUT SERVICE
 
 - Create new class which extends **AbstractService**
-- Replace from default to *your client* in **main.js**
+- Replace from default to *your service* in **main.js**
